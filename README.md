@@ -23,8 +23,11 @@ This configuration file was created for a local musical production of "The Littl
 Please note:
 - You will need to provide your own music files.
 - Adjust the configuration for your fixtures. This setup was designed for a 24-channel single-color light set, with the first three channels dead and the fourth channel controlling the main lights.
-- lights 11, 21-24 are considered "sea lighting" since they had a color filter on it though the color was only noticeable only when those lights were turned on
+- Lights 11, 21-24 are considered "sea lighting" since they had a color filter on it though the color was only noticeable only when those lights were turned on.
+- This setup used a USB DMX adapter. which can be bought [Here](https://www.enttec.com/product/dmx-usb-interfaces/open-dmx-usb/)
+
+If you need help with anything, please reach out by opening an issue.
 
 ## License
 
-This project is licensed under the terms of a  Modified MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the Modified MIT License. See the [LICENSE](LICENSE) file for details.
