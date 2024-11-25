@@ -12,7 +12,7 @@ This repository contains the configuration file for QLC+.
 
 To use the configuration file with QLC+, follow these steps:
 
-1. Open QLC+.
+1. Open [QLC+](https://qlcplus.org/)
 2. Load the `TLMJRButWithWav.qxw` file.
 3. Configure your fixtures and sequences as needed.
 
