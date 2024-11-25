@@ -23,6 +23,7 @@ This configuration file was created for a local musical production of "The Littl
 Please note:
 - You will need to provide your own music files.
 - Adjust the configuration for your fixtures. This setup was designed for a 24-channel single-color light set, with the first three channels dead and the fourth channel controlling the main lights.
+- lights 11, 21-24 are considered "sea lighting" since they had a color filter on it though the color was only noticeable only when those lights were turned on
 
 ## License
 
